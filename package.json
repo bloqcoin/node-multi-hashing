@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-multi-hashing.git"
+        "url": "https://github.com/bloqcoin/node-multi-hashing.git"
     },
     "scripts": {
         "build": "node-gyp rebuild",
@@ -19,20 +19,7 @@
         "nan": "^2.15.0"
     },
     "keywords": [
-        "argon2",
-        "scrypt",
-        "scryptjane",
-        "script-n",
-        "x11",
-        "quark",
-        "keccak_hash",
-        "skein",
-        "bcrypt",
-        "keccak",
-        "blake",
-        "shavite",
-        "fugue",
-        "sha1"
+        "sha256"
     ],
     "devDependencies": {
         "babel-register": "^6.26.0",
